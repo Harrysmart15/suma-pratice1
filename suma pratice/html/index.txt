@@ -1,0 +1,118 @@
+in HTML we mostly used in elements and tag.
+with out tag there no element will be created.
+HTML -sekelton of web site
+1. Head
+
+1.95%  styles is inside of the Head
+all
+
+2. external  referance links
+eg. google links, web links 
+those all links are only in head tag.
+
+3.addition information for this web page
+
+
+2.body 
+
+what ever data  user sees will inside of the HTML
+all <p> tag should be in body tags. its  a right way.
+
+HTML - hyper text markup language.
+
+1. elements and tags..
+ all the elements should be created inside of the tag only...
+
+ there are 2 category of tags
+ eg.
+ <html> - open tag
+ </html> - close tag.
+  
+
+if we want to create any  HTML we should create the data inside the <html></html>
+
+structure of HTML
+<html>
+   <head>
+   </head>
+   <body>
+   </body>
+</html>
+
+
+
+meta - additional information is meta.
+charset -utf-8 - universal text format
+it is used to machine learnig it is convert our data into binary.
+it is self closing tag.
+
+view port
+
+user will uses what ever device for that disaly it has want to fix method is called viewport
+
+<p> lorem30</P> means it print default word..
+
+
+title --means it print the head of web page
+
+
+h1,h2,h3,h4,h5,h6 -its stands for heading purpose
+
+
+<p> stands for paragraph tag. -its uses for breief explatation
+
+<b> stands for bold the letter
+
+nested lists
+
+eg...
+.
+. ---is all inside of the ul tag
+.
+
+<ul> stands for unorder list </ul>
+<li> list tag1</li>
+in this random ah create agi irukum
+
+
+<ul>
+<li> hari </li>
+<li> mohan </li>
+</ul>
+
+
+
+TO Do list
+<ol> order list </ol>
+
+it is used order the lists
+<ol>
+<li> hari </li>
+<li> karthi </li>
+
+</ol>
+
+
+
+<ul>
+<li>    dc
+<ol> 
+<li> hari </li>
+<li> spider </li>
+
+</li>
+</ul>
+
+
+
+
+<ol type ="a">
+<ol type ="1">
+<ol type ="disc">
+<ol type ="i" >
+
+
+
+
+
+
